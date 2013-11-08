@@ -1,4 +1,4 @@
-scp ~/to_windows GAOYouhua@10.1.1.29:~/DeskTop/from_ubuntu
+
 
 个人用户环境变量 ~/.profile
 /usr/share/applications
